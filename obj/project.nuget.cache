@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/DJYkJczWgwOxYzfg6+bgj2lw1HiE4teCgiVh1JXTMdteDux0ZcLIQB508ErXnQULLu/cPSMYJIV7uOhTw411Q==",
+  "dgSpecHash": "bBeLOeU+bqayPlTQyDbm7yOB36CLS0KcF2aG1YRI3pFzNWOACrwZH0/KRZxlD03VWcAFfOcsXzPtTvX1ezBYoQ==",
   "success": true,
-  "projectFilePath": "/home/runner/CSharp/main.csproj",
+  "projectFilePath": "/home/runner/c-basic-algorithm/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
