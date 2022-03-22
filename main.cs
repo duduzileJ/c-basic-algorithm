@@ -35,7 +35,19 @@ class Program {
       Console.WriteLine(difference);
     }
     
-    
+    //check two given integers, and return true if one of them is 30 or if their sum is 30.
+    Console.WriteLine("\nCheck input numbers and return true if one is 30 or if sum is 30");
+    Console.Write("Enter first number: ");
+    int x = int.Parse(Console.ReadLine());
+    Console.Write("Enter second number: ");
+    int y = int.Parse(Console.ReadLine());
+    if(x == 30 || y == 30)
+      Console.WriteLine(true);
+    if((x+y)==30)
+      Console.WriteLine(true);
+    else
+      Console.WriteLine(false);
     
   }
+  
 }
